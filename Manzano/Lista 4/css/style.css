@@ -1,0 +1,36 @@
+* {
+    background-color: rgb(186, 201, 209);
+}
+
+h2 {
+    color: rgb(53, 103, 146);
+    text-align: left;
+    font-size: 3rem;
+    text-shadow: #00000015 2px 2px 5px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+p {
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    padding: 2px;
+    margin-bottom: 10px;
+
+}
+
+button {
+  color: #fff;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(4, 43, 102);
+    margin: 2px 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
